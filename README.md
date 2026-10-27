@@ -99,7 +99,7 @@ If our work can help you, please feel free to cite it.
 
 ```
 @InProceedings{Tang_2022_ACCV,
-    author    = {Tang, Yunlong and Xu, Siting and Wang, Teng and Lin, Qin and Lu, Qinglin and Zheng, Feng},
+    author    = {Tang, Yolo Y. and Xu, Siting and Wang, Teng and Lin, Qin and Lu, Qinglin and Zheng, Feng},
     title     = {Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward},
     booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
     month     = {December},
